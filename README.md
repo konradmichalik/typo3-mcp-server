@@ -170,3 +170,4 @@ Tools are defined in the `Classes/MCP/Tool` directory. Each tool follows the MCP
 ## License
 
 GPL-2.0-or-later
+
